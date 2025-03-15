@@ -2,3 +2,10 @@
 Phi-3-mini-4k-instruct-fp16.gguf
 .env
 sim_matrix.png
+.vscode
+base_embedding_model
+cosineloss_embedding_model
+finetuned_embedding_model
+mnrloss_embedding_model
+augmented_embedding_model
+tsdae_embedding_model
