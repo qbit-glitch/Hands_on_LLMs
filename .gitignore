@@ -9,3 +9,9 @@ finetuned_embedding_model
 mnrloss_embedding_model
 augmented_embedding_model
 tsdae_embedding_model
+sample.md
+model
+checkpoints
+mlm
+multiple_frozen_blocks.png
+ner_model
